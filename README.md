@@ -1,2 +1,1 @@
-# compatwiki-deploy-tmp
-Temporary public host for a Worker deploy pack; delete after cutover.
+Temporary public repo for a one-shot Cloudflare Worker deploy of compatwiki-site. Delete after deploy.
